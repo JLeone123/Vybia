@@ -1,0 +1,852 @@
+{
+    "person_1": {
+        "id": "7ed8b2b3aee1f0907009f4f7",
+        "firstName": "Terence",
+        "lastName": "Legros",
+        "fullName": "Terence Legros",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "ebdcce3baacc878fb8ef60ee",
+                        "mp3": "ebdcce_we_are_family_sean_steuber.mp3",
+                        "songName": "We Are Family",
+                        "albumName": "Hey Ya!",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 57.16259501934833,
+                            "energy": 89.51499512169043,
+                            "rhythm": 70.35832122794837,
+                            "positivity": 78.60605232669973
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "b55af28eb76c1ccf1bad7e10",
+                        "mp3": "b55af2_la_bamba_aida_auer.mp3",
+                        "songName": "La Bamba",
+                        "albumName": "One",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 49.623670560532965,
+                            "energy": 35.202820690521165,
+                            "rhythm": 38.919321015034704,
+                            "positivity": 9.241690397187563
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "2fbbf8a0c23de71d5df3c018",
+                        "mp3": "2fbbf8_que_sera_sera_(whatever_will_be_will_be)_trey_hansen.mp3",
+                        "songName": "Que sera sera (Whatever will be will be)",
+                        "albumName": "Freak Me",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 23.125530526498174,
+                            "energy": 52.61706763603029,
+                            "rhythm": 31.381928075046584,
+                            "positivity": 55.415205435185364
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "ed71e7d4686a1a6320d486d9",
+                        "mp3": "ed71e7_i_wanna_love_you_khalid_trantow.mp3",
+                        "songName": "I Wanna Love You",
+                        "albumName": "You Send Me",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 97.80016078349729,
+                            "energy": 39.35360861523958,
+                            "rhythm": 56.732905649666506,
+                            "positivity": 70.07549139205736
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "12b59f3f9b82d6f15caaccdb",
+                        "mp3": "12b59f_wild_thing_henri_balistreri.mp3",
+                        "songName": "Wild Thing",
+                        "albumName": "All My Lovin' (You're Never Gonna Get It)",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 4.332999798558812,
+                            "energy": 70.47439036736955,
+                            "rhythm": 35.25566930125898,
+                            "positivity": 45.942707160119255
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_2": {
+        "id": "e53acc63c04e0acab578cecd",
+        "firstName": "Antoinette",
+        "lastName": "Ward",
+        "fullName": "Antoinette Ward",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "e64b57b458f1010ddfdab102",
+                        "mp3": "e64b57_puttin'_on_the_ritz_ubaldo_kuphal.mp3",
+                        "songName": "Puttin' on the Ritz",
+                        "albumName": "Unbelievable",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 59.759452496513,
+                            "energy": 94.49765319217902,
+                            "rhythm": 78.1774834352056,
+                            "positivity": 77.43924855987461
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "68a18adb01bb093fafe3e1dd",
+                        "mp3": "68a18a_lookin'_out_my_back_door_annamarie_weimann.mp3",
+                        "songName": "Lookin' Out My Back Door",
+                        "albumName": "Fantasy",
+                        "genre": "Punk",
+                        "characteristics": {
+                            "volume": 31.398829142858766,
+                            "energy": 4.541271744406572,
+                            "rhythm": 93.88523900873847,
+                            "positivity": 63.9053505092227
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "df0d050fcca6a9d7cdcaba73",
+                        "mp3": "df0d05_(your_love_keeps_lifting_me)_higher_&_higher_kacie_kub.mp3",
+                        "songName": "(Your Love Keeps Lifting Me) Higher & Higher",
+                        "albumName": "Louie Louie",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 16.586481236801397,
+                            "energy": 72.58779993801996,
+                            "rhythm": 58.74865081877072,
+                            "positivity": 46.8678873174033
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "ab8f2fc7cecdedcf1c7c9218",
+                        "mp3": "ab8f2f_higher_love_gennaro_heaney-considine.mp3",
+                        "songName": "Higher Love",
+                        "albumName": "Sh-Boom (Life Could Be a Dream)",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 7.835606770246306,
+                            "energy": 41.82640663146442,
+                            "rhythm": 30.3752684440026,
+                            "positivity": 3.556182225908211
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "ba8dfb508dffdbce00d5615e",
+                        "mp3": "ba8dfb_gypsies_brandi_kunze.mp3",
+                        "songName": "Gypsies",
+                        "albumName": "Penny Lane",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 11.75766882371676,
+                            "energy": 18.93932251379664,
+                            "rhythm": 27.147441129430373,
+                            "positivity": 51.315772084715135
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_3": {
+        "id": "dac67fcfd1c04c08fad51e5d",
+        "firstName": "Theodore",
+        "lastName": "Klocko",
+        "fullName": "Theodore Klocko",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "bb76aad91ab3581761aafb84",
+                        "mp3": "bb76aa_like_a_virgin_claudine_howe.mp3",
+                        "songName": "Like a Virgin",
+                        "albumName": "Save the Best For Last",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 92.8374372957583,
+                            "energy": 66.64883610329709,
+                            "rhythm": 52.412506989303424,
+                            "positivity": 26.13044298909277
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "f9cbc64c285b4437e9da096f",
+                        "mp3": "f9cbc6_you_don't_bring_me_flowers_herminio_aufderhar.mp3",
+                        "songName": "You Don't Bring Me Flowers",
+                        "albumName": "Long Tall Sally",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 58.513694243144634,
+                            "energy": 56.31621766251826,
+                            "rhythm": 79.56090934128987,
+                            "positivity": 69.74518007753781
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "be1cc5094ec4d44c0bcaf4de",
+                        "mp3": "be1cc5_hungry_heart_jerad_sauer.mp3",
+                        "songName": "Hungry Heart",
+                        "albumName": "Locked Out Of Heaven",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 24.345331366390187,
+                            "energy": 22.43000128124453,
+                            "rhythm": 45.22679396879597,
+                            "positivity": 67.28131652656917
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "78692922e97de7a94ee16a4d",
+                        "mp3": "786929_aquarius/let_the_sunshine_in_garett_runolfsson.mp3",
+                        "songName": "Aquarius/Let The Sunshine In",
+                        "albumName": "Dreams",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 94.26896505594482,
+                            "energy": 82.81986161866605,
+                            "rhythm": 74.97881178911096,
+                            "positivity": 75.5834539669455
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "9d76bbfd88da91b5ca4bbfeb",
+                        "mp3": "9d76bb_mr_tambourine_man_amie_hartmann.mp3",
+                        "songName": "Mr Tambourine Man",
+                        "albumName": "Beautiful Day",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 66.12460992994262,
+                            "energy": 90.63599672913408,
+                            "rhythm": 74.20876010893038,
+                            "positivity": 26.243198980378637
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_4": {
+        "id": "b5ca3dd0ecfb8fa12d30d4ae",
+        "firstName": "Lois",
+        "lastName": "Kohler",
+        "fullName": "Lois Kohler",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "2a9c9d6382444b3ae91dece7",
+                        "mp3": "2a9c9d_wheel_of_fortune_tyrique_fay.mp3",
+                        "songName": "Wheel of Fortune",
+                        "albumName": "Centerfold",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 82.71148508391484,
+                            "energy": 49.02812836736039,
+                            "rhythm": 86.4335113895504,
+                            "positivity": 49.69398826090266
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "bbb7bffc1ad4afa8e9f443de",
+                        "mp3": "bbb7bf_near_you_mathew_lueilwitz.mp3",
+                        "songName": "Near You",
+                        "albumName": "This Love",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 18.853904575208503,
+                            "energy": 65.44946420339906,
+                            "rhythm": 60.90091523376513,
+                            "positivity": 96.98302467043509
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "ddd598d3e099f6fe7ce5c6e2",
+                        "mp3": "ddd598_rock_the_boat_earnestine_gottlieb.mp3",
+                        "songName": "Rock the Boat",
+                        "albumName": "Hanky Panky",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 60.052605266214876,
+                            "energy": 84.29480240587294,
+                            "rhythm": 89.88068888128282,
+                            "positivity": 34.772484416159166
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "7a1deede3b7fefcd278c0bf4",
+                        "mp3": "7a1dee_strangers_in_the_night_damon_franey.mp3",
+                        "songName": "Strangers in the Night",
+                        "albumName": "King of the Road",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 28.57166865943215,
+                            "energy": 19.01781716296236,
+                            "rhythm": 17.337838835650167,
+                            "positivity": 3.7197122948417816
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "3f368dad6bb3bef61afcffd7",
+                        "mp3": "3f368d_you_always_hurt_the_one_you_love_ignatius_crist.mp3",
+                        "songName": "You Always Hurt the One You Love",
+                        "albumName": "That's What Friends Are For",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 12.398112901341584,
+                            "energy": 8.80478658800936,
+                            "rhythm": 15.651442164042972,
+                            "positivity": 63.51173650692215
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_5": {
+        "id": "b5bee832f583aa1debffab4c",
+        "firstName": "Charles",
+        "lastName": "Schaden",
+        "fullName": "Charles Schaden",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "5aa3fafe7778ba8bc211bf0f",
+                        "mp3": "5aa3fa_everyday_people_timmy_halvorson.mp3",
+                        "songName": "Everyday People",
+                        "albumName": "Another Brick in the Wall (part 2)",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 73.6047517052282,
+                            "energy": 6.8531708837500815,
+                            "rhythm": 38.56357109607702,
+                            "positivity": 15.188399973642653
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "f3bb6d8a4c1df4d230f24afe",
+                        "mp3": "f3bb6d_house_of_the_rising_sun_yazmin_bailey.mp3",
+                        "songName": "House of the Rising Sun",
+                        "albumName": "Don't Be Cruel",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 85.64983872779437,
+                            "energy": 29.576055164380932,
+                            "rhythm": 61.717796932979255,
+                            "positivity": 44.870670353621
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "eb900058a2ef6f54a5b72ebf",
+                        "mp3": "eb9000_lola_adonis_boyer.mp3",
+                        "songName": "Lola",
+                        "albumName": "U Got it Bad",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 48.591736943585474,
+                            "energy": 57.17857729659761,
+                            "rhythm": 7.130801503958462,
+                            "positivity": 79.71892711746598
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "8d0a0fc4d278d1e8bdaaf7cd",
+                        "mp3": "8d0a0f_this_used_to_be_my_playground_russell_bartell.mp3",
+                        "songName": "This Used to Be My Playground",
+                        "albumName": "I Heard it Through the Grapevine",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 99.04533600056233,
+                            "energy": 51.562985155612616,
+                            "rhythm": 4.794996501054949,
+                            "positivity": 4.598874017310561
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "3ace2f001db5dad5fe5ce54b",
+                        "mp3": "3ace2f_don't_fence_me_in_marcellus_marquardt.mp3",
+                        "songName": "Don't Fence Me In",
+                        "albumName": "The Glow-Worm",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 14.419965463260876,
+                            "energy": 50.20702980049965,
+                            "rhythm": 65.2259150757313,
+                            "positivity": 3.7806453484813485
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_6": {
+        "id": "a74b320f42645a38e90a0c4f",
+        "firstName": "Betsy",
+        "lastName": "Nolan",
+        "fullName": "Betsy Nolan",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "eabca3c903ab717dac411ad7",
+                        "mp3": "eabca3_oh_happy_day_sammy_veum.mp3",
+                        "songName": "Oh Happy Day",
+                        "albumName": "Save the Last Dance For Me",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 29.581356191460316,
+                            "energy": 13.604988549352548,
+                            "rhythm": 74.45100359443248,
+                            "positivity": 17.079051954485603
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "ac5efccaaac611cfb3d82492",
+                        "mp3": "ac5efc_wheel_of_fortune_savannah_hahn.mp3",
+                        "songName": "Wheel of Fortune",
+                        "albumName": "In the Year 2525 (Exordium & Terminus)",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 86.90626774724197,
+                            "energy": 99.43764162061137,
+                            "rhythm": 23.422182863659092,
+                            "positivity": 38.05865813428122
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "dfa4eb2bbedc35c8b1da9385",
+                        "mp3": "dfa4eb_(i've_had)_the_time_of_my_life_jarrett_wisozk.mp3",
+                        "songName": "(I've Had) the Time of My Life",
+                        "albumName": "I Can't Get Started",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 40.376903880013785,
+                            "energy": 22.03059687449023,
+                            "rhythm": 1.4132304420084507,
+                            "positivity": 36.80385825210759
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "0ca51017dd9f9ce6f4cb9bac",
+                        "mp3": "0ca510_auf_wiederseh'n_sweetheart_demarco_lowe.mp3",
+                        "songName": "Auf Wiederseh'n Sweetheart",
+                        "albumName": "Glamorous",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 42.609549300484616,
+                            "energy": 59.163317408178905,
+                            "rhythm": 44.394606900428045,
+                            "positivity": 84.53804546618326
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "3371c6b0eafbcc1eeabdfed3",
+                        "mp3": "3371c6_i_think_i_love_you_bernardo_berge.mp3",
+                        "songName": "I Think I Love You",
+                        "albumName": "Honey",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 12.132349901455175,
+                            "energy": 53.59355318830117,
+                            "rhythm": 25.863991120864817,
+                            "positivity": 19.427811853799337
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_7": {
+        "id": "faf4d8cb578ef98ac294a8e5",
+        "firstName": "Alfred",
+        "lastName": "Baumbach",
+        "fullName": "Alfred Baumbach",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "0ffdf9614fa9cf6c2cb2fa5c",
+                        "mp3": "0ffdf9_hello_dolly_angus_davis.mp3",
+                        "songName": "Hello Dolly",
+                        "albumName": "(Put Another Nickel In) Music! Music! Music!",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 64.98588438113264,
+                            "energy": 90.68327849045157,
+                            "rhythm": 36.87527254763023,
+                            "positivity": 21.671944913773842
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "8c2626c3fd10eea6ad69a91b",
+                        "mp3": "8c2626_waiting_for_a_girl_like_you_darrick_purdy.mp3",
+                        "songName": "Waiting For a Girl Like You",
+                        "albumName": "Walk On the Wild Side",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 43.797142521762275,
+                            "energy": 27.41366516077961,
+                            "rhythm": 17.745877586798887,
+                            "positivity": 36.83020123446434
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "cc97ba3d702c69f202dce80d",
+                        "mp3": "cc97ba_in_the_ghetto_jaunita_marvin.mp3",
+                        "songName": "In the Ghetto",
+                        "albumName": "(I've Had) the Time of My Life",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 99.96195204400291,
+                            "energy": 12.693085540746507,
+                            "rhythm": 59.547773371889214,
+                            "positivity": 53.85847324202804
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "fde39bd220ee4314f8ff7c68",
+                        "mp3": "fde39b_i'll_make_love_to_you_aiden_hegmann.mp3",
+                        "songName": "I'll Make Love to You",
+                        "albumName": "Harbour Lights",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 89.94108591512028,
+                            "energy": 92.24880063356183,
+                            "rhythm": 76.70204407996862,
+                            "positivity": 2.1881482522625006
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "bd3c5fcd5034ebc6a9ddfdfc",
+                        "mp3": "bd3c5f_bridge_over_troubled_water_amparo_abshire.mp3",
+                        "songName": "Bridge Over Troubled Water",
+                        "albumName": "Cars",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 57.11436147826934,
+                            "energy": 70.50081885080057,
+                            "rhythm": 24.210537770625496,
+                            "positivity": 47.96912610995299
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_8": {
+        "id": "97b08aecd750f69d79026f12",
+        "firstName": "Alison",
+        "lastName": "Hoppe",
+        "fullName": "Alison Hoppe",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "0e7d4f8f59dd5b6bcb61c57c",
+                        "mp3": "0e7d4f_the_joker_cristian_leffler.mp3",
+                        "songName": "The Joker",
+                        "albumName": "God Bless America",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 72.94642275982129,
+                            "energy": 32.63923366657102,
+                            "rhythm": 81.36985569701712,
+                            "positivity": 39.18876534189679
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "065a99e09e49ad2ebe5bb09e",
+                        "mp3": "065a99_nature_boy_ruben_lowe.mp3",
+                        "songName": "Nature Boy",
+                        "albumName": "She's a Lady",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 1.8611623664103405,
+                            "energy": 58.03248201147673,
+                            "rhythm": 82.70150739201327,
+                            "positivity": 66.56131657124726
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "cb255a9daf5925dadfbaacda",
+                        "mp3": "cb255a_bitter_sweet_symphony_jamison_kautzer.mp3",
+                        "songName": "Bitter Sweet Symphony",
+                        "albumName": "Light My Fire",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 28.743908998006095,
+                            "energy": 59.327116034489634,
+                            "rhythm": 41.42125198750604,
+                            "positivity": 69.52473279426312
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "c981fc0a4e851fedbadd4db2",
+                        "mp3": "c981fc_somethin'_stupid_nathanial_morissette.mp3",
+                        "songName": "Somethin' Stupid",
+                        "albumName": "Mama Told Me Not to Come",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 31.10856372649713,
+                            "energy": 71.76887325018684,
+                            "rhythm": 79.25254343930581,
+                            "positivity": 63.39471186854952
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "f0c988a596fc5a3eccafbfc9",
+                        "mp3": "f0c988_one_bad_apple_gerard_franey.mp3",
+                        "songName": "One Bad Apple",
+                        "albumName": "Your Song",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 57.72630160143657,
+                            "energy": 8.289367708253192,
+                            "rhythm": 38.67850182488428,
+                            "positivity": 18.300859299290085
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_9": {
+        "id": "ff21b5b2084bc449b3d6ccbd",
+        "firstName": "Alberto",
+        "lastName": "Ward",
+        "fullName": "Alberto Ward",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "3b1db1bacaea5a1b8994cf59",
+                        "mp3": "3b1db1_oh_happy_day_murray_king.mp3",
+                        "songName": "Oh Happy Day",
+                        "albumName": "Smoke! Smoke! Smoke! (That Cigarette)",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 88.03231173125192,
+                            "energy": 33.82290542021735,
+                            "rhythm": 72.7459198766902,
+                            "positivity": 30.67657510485784
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "276ba3d1a0a1be3eb5daa5f4",
+                        "mp3": "276ba3_t_for_texas_(blue_yodel_no_1)_aurelie_cruickshank.mp3",
+                        "songName": "T For Texas (Blue Yodel No 1)",
+                        "albumName": "Hey Jude",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 64.79127285920427,
+                            "energy": 93.06083048279356,
+                            "rhythm": 88.96151372977658,
+                            "positivity": 71.80113467877072
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "059bc180cf0ede6aba4fe8c3",
+                        "mp3": "059bc1_love_is_blue_(l'amour_est_bleu)_katelynn_koch-quigley.mp3",
+                        "songName": "Love Is Blue (L'Amour Est Bleu)",
+                        "albumName": "Streets of Philadelphia",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 58.86962116265617,
+                            "energy": 24.951592469787222,
+                            "rhythm": 0.6061394163942246,
+                            "positivity": 84.92861869885162
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "c57b45bbd50cb7636e40606f",
+                        "mp3": "c57b45_rolling_in_the_deep_cale_schroeder.mp3",
+                        "songName": "Rolling In The Deep",
+                        "albumName": "Nature Boy",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 35.204941037347105,
+                            "energy": 84.8939359272088,
+                            "rhythm": 95.73573425275403,
+                            "positivity": 16.695058671048436
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "d23c4e00f40ee427a25b6bad",
+                        "mp3": "d23c4e_careless_whisper_carson_leuschke.mp3",
+                        "songName": "Careless Whisper",
+                        "albumName": "Dreams",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 99.74464543657918,
+                            "energy": 2.9860185270699002,
+                            "rhythm": 93.25505598818754,
+                            "positivity": 40.7453239578724
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_10": {
+        "id": "ab6cb6a050bd86624355dae7",
+        "firstName": "Eloise",
+        "lastName": "Gerhold",
+        "fullName": "Eloise Gerhold",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "bf95c61edebcda41a25c5a9b",
+                        "mp3": "bf95c6_wanted_jacinthe_dubuque.mp3",
+                        "songName": "Wanted",
+                        "albumName": "God Bless the Child",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 4.3109422880938775,
+                            "energy": 80.9167703550549,
+                            "rhythm": 23.647844448918388,
+                            "positivity": 8.964298915619429
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "ab9d7fcabcbf7caeb69b0a9e",
+                        "mp3": "ab9d7f_suspicious_minds_lonny_hodkiewicz.mp3",
+                        "songName": "Suspicious Minds",
+                        "albumName": "Eye of the Tiger",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 95.7663101871938,
+                            "energy": 14.45981750272962,
+                            "rhythm": 69.13636181567904,
+                            "positivity": 22.497590462644435
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "cfbbbfd20e9aec242da57d8b",
+                        "mp3": "cfbbbf_wabash_cannonball_dawson_wolff.mp3",
+                        "songName": "Wabash Cannonball",
+                        "albumName": "Take The 'A' Train",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 11.294416191178414,
+                            "energy": 40.62892335008694,
+                            "rhythm": 25.114657945303964,
+                            "positivity": 5.367709973582291
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "03cd5fb9051d84b582b1ab4a",
+                        "mp3": "03cd5f_theme_from_'a_summer_place'_edyth_bashirian.mp3",
+                        "songName": "Theme From 'A Summer Place'",
+                        "albumName": "Ring of Fire",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 91.57728343394179,
+                            "energy": 9.202507567083718,
+                            "rhythm": 61.976616239987,
+                            "positivity": 28.354725320380236
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "5bc56ace529407c1f4fc5cff",
+                        "mp3": "5bc56a_cat's_in_the_cradle_delbert_bartoletti.mp3",
+                        "songName": "Cat's in the Cradle",
+                        "albumName": "Tears of a Clown",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 86.04371657562437,
+                            "energy": 35.78163406797559,
+                            "rhythm": 92.76249905320884,
+                            "positivity": 84.9764398960341
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

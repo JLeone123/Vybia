@@ -1,0 +1,922 @@
+{
+    "person_1": {
+        "id": "3b771abf5191cae1dda1d6ff",
+        "password": "Oc9Y",
+        "firstName": "Clyde",
+        "lastName": "Streich",
+        "fullName": "Clyde Streich",
+        "email": "Clyde_Streich@yahoo.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "1efd9033cbbb16fec5b8b9a8",
+                        "mp3": "1efd90_nobody_does_it_better_armando_stoltenberg.mp3",
+                        "songName": "Nobody Does it Better",
+                        "artistName": "Armando Stoltenberg",
+                        "albumName": "Magic Carpet Ride",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 67.5773,
+                            "energy": 67.2152,
+                            "rhythm": 45.9419,
+                            "positivity": 32.6145
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "fcb4cb0a53fb2c4501a9df3a",
+                        "mp3": "fcb4cb_how_high_the_moon_charles_feil.mp3",
+                        "songName": "How High the Moon",
+                        "artistName": "Charles Feil",
+                        "albumName": "Need You Now",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 86.2513,
+                            "energy": 57.2827,
+                            "rhythm": 42.7967,
+                            "positivity": 17.2325
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "facc1e2bdbd9db80aaf2c33f",
+                        "mp3": "facc1e_stormy_weather_(keeps_rainin'_all_the_time)_duane_abshire.mp3",
+                        "songName": "Stormy Weather (Keeps Rainin' All the Time)",
+                        "artistName": "Duane Abshire",
+                        "albumName": "Live & Let Die",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 76.9769,
+                            "energy": 42.1091,
+                            "rhythm": 37.288,
+                            "positivity": 82.5272
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "cfdcbdcc75c5efbdcedb273c",
+                        "mp3": "cfdcbd_crying_gabe_luettgen.mp3",
+                        "songName": "Crying",
+                        "artistName": "Gabe Luettgen",
+                        "albumName": "Sh-Boom (Life Could Be a Dream)",
+                        "genre": "Punk",
+                        "characteristics": {
+                            "volume": 64.1965,
+                            "energy": 90.0392,
+                            "rhythm": 22.9982,
+                            "positivity": 93.9206
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "c6d3d9aabf96598b5afe3b55",
+                        "mp3": "c6d3d9_being_with_you_hayley_conroy.mp3",
+                        "songName": "Being With You",
+                        "artistName": "Hayley Conroy",
+                        "albumName": "(Sittin' On) the Dock of the Bay",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 85.7581,
+                            "energy": 91.8875,
+                            "rhythm": 97.8954,
+                            "positivity": 32.0099
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_2": {
+        "id": "ea0ffa16e0ad8df9cdffdcbc",
+        "password": "t9scfI5iSz",
+        "firstName": "Ora",
+        "lastName": "Hickle",
+        "fullName": "Ora Hickle",
+        "email": "Ora_Hickle48@yahoo.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "c9e49278efedee46672bedb6",
+                        "mp3": "c9e492_shadow_dancing_jaquelin_stoltenberg.mp3",
+                        "songName": "Shadow Dancing",
+                        "artistName": "Jaquelin Stoltenberg",
+                        "albumName": "Do That to Me One More Time",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 74.3797,
+                            "energy": 17.9408,
+                            "rhythm": 34.1344,
+                            "positivity": 37.3167
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "6cd8a8be8de62ff166bc110d",
+                        "mp3": "6cd8a8_maniac_flossie_haley.mp3",
+                        "songName": "Maniac",
+                        "artistName": "Flossie Haley",
+                        "albumName": "Theme From 'Greatest American Hero' (Believe It Or Not)",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 7.0847,
+                            "energy": 31.0007,
+                            "rhythm": 73.9006,
+                            "positivity": 39.7824
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "bbccfdc71781fe1ccb99ceae",
+                        "mp3": "bbccfd_knock_on_wood_omari_ward.mp3",
+                        "songName": "Knock On Wood",
+                        "artistName": "Omari Ward",
+                        "albumName": "1999",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 94.28,
+                            "energy": 60.7336,
+                            "rhythm": 11.6043,
+                            "positivity": 17.9849
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "8bebbe2db41df57ddfb9dc8d",
+                        "mp3": "8bebbe_love_letters_in_the_sand_katrina_auer.mp3",
+                        "songName": "Love Letters in the Sand",
+                        "artistName": "Katrina Auer",
+                        "albumName": "Duke of Earl",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 19.8469,
+                            "energy": 3.9495,
+                            "rhythm": 27.1587,
+                            "positivity": 80.9714
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "1fb6c3527aeeaae8563cfdb3",
+                        "mp3": "1fb6c3_begin_the_beguine_mina_terry.mp3",
+                        "songName": "Begin the Beguine",
+                        "artistName": "Mina Terry",
+                        "albumName": "Up Up & Away",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 2.8343,
+                            "energy": 21.4408,
+                            "rhythm": 68.7638,
+                            "positivity": 17.3118
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_3": {
+        "id": "cf71b79d5fdccdc4d00afaf3",
+        "password": "0dssqakAvSy9vb",
+        "firstName": "Bert",
+        "lastName": "Moen",
+        "fullName": "Bert Moen",
+        "email": "Bert_Moen10@hotmail.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "c227b5b8c84254a4de696389",
+                        "mp3": "c227b5_ain't_no_sunshine_annie_skiles.mp3",
+                        "songName": "Ain't No Sunshine",
+                        "artistName": "Annie Skiles",
+                        "albumName": "Feel Good Inc",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 5.9929,
+                            "energy": 93.269,
+                            "rhythm": 64.0139,
+                            "positivity": 24.3443
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "c5d5067d73b73b61bd4504da",
+                        "mp3": "c5d506_let_me_call_you_sweetheart_tiana_christiansen.mp3",
+                        "songName": "Let Me Call You Sweetheart",
+                        "artistName": "Tiana Christiansen",
+                        "albumName": "Bohemian Rhapsody",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 18.8252,
+                            "energy": 6.4836,
+                            "rhythm": 83.0966,
+                            "positivity": 2.9052
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "e11503ebb28eab1f3cffbad7",
+                        "mp3": "e11503_ac-cent-tchu-ate_the_positive_cristian_franecki.mp3",
+                        "songName": "Ac-cent-tchu-ate the Positive",
+                        "artistName": "Cristian Franecki",
+                        "albumName": "(Put Another Nickel In) Music! Music! Music!",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 47.5343,
+                            "energy": 71.4381,
+                            "rhythm": 75.1729,
+                            "positivity": 87.0772
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "d91d6854be8f631edd2bed4c",
+                        "mp3": "d91d68_imagine_mason_stroman.mp3",
+                        "songName": "Imagine",
+                        "artistName": "Mason Stroman",
+                        "albumName": "Love Train",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 42.0587,
+                            "energy": 96.6691,
+                            "rhythm": 59.1308,
+                            "positivity": 21.9916
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "be15a2c34bdefe9350bd5c3c",
+                        "mp3": "be15a2_some_enchanted_evening_arielle_brekke.mp3",
+                        "songName": "Some Enchanted Evening",
+                        "artistName": "Arielle Brekke",
+                        "albumName": "Get Down Tonight",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 95.0274,
+                            "energy": 28.7654,
+                            "rhythm": 8.5909,
+                            "positivity": 68.7954
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_4": {
+        "id": "c8c294e0ee39b6efa850cbcf",
+        "password": "62cS2TAL",
+        "firstName": "Ellen",
+        "lastName": "Dare",
+        "fullName": "Ellen Dare",
+        "email": "Ellen32@gmail.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "d91d6854be8f631edd2bed4c",
+                        "mp3": "d91d68_imagine_mason_stroman.mp3",
+                        "songName": "Imagine",
+                        "artistName": "Mason Stroman",
+                        "albumName": "Love Train",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 42.0587,
+                            "energy": 96.6691,
+                            "rhythm": 59.1308,
+                            "positivity": 21.9916
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "eedf1dae83f83e1e8bf4cc42",
+                        "mp3": "eedf1d_stronger_hester_renner.mp3",
+                        "songName": "Stronger",
+                        "artistName": "Hester Renner",
+                        "albumName": "The Rose",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 93.9715,
+                            "energy": 29.6392,
+                            "rhythm": 54.1293,
+                            "positivity": 65.2615
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "abeaff6a019e5fdd1deba13c",
+                        "mp3": "abeaff_respect_daron_kiehn.mp3",
+                        "songName": "Respect",
+                        "artistName": "Daron Kiehn",
+                        "albumName": "Silly Love Songs",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 18.0425,
+                            "energy": 90.4244,
+                            "rhythm": 52.3353,
+                            "positivity": 12.8744
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "a56d892b2feb5b8d3ca995a7",
+                        "mp3": "a56d89_rapture_ilene_lubowitz.mp3",
+                        "songName": "Rapture",
+                        "artistName": "Ilene Lubowitz",
+                        "albumName": "The Letter",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 47.6492,
+                            "energy": 21.3263,
+                            "rhythm": 82.2842,
+                            "positivity": 86.3195
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "d9bb8c8bcb0132b4732fbbe7",
+                        "mp3": "d9bb8c_pop_muzik_malvina_legros.mp3",
+                        "songName": "Pop Muzik",
+                        "artistName": "Malvina Legros",
+                        "albumName": "Everybody Wants to Rule the World",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 16.3784,
+                            "energy": 90.476,
+                            "rhythm": 48.5169,
+                            "positivity": 90.9705
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_5": {
+        "id": "b2a7b2fb65d8820fff7cddb2",
+        "password": "iwy9VLlY_qKK",
+        "firstName": "Donald",
+        "lastName": "Schuster",
+        "fullName": "Donald Schuster",
+        "email": "Donald77@hotmail.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "c6d3d9aabf96598b5afe3b55",
+                        "mp3": "c6d3d9_being_with_you_hayley_conroy.mp3",
+                        "songName": "Being With You",
+                        "artistName": "Hayley Conroy",
+                        "albumName": "(Sittin' On) the Dock of the Bay",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 85.7581,
+                            "energy": 91.8875,
+                            "rhythm": 97.8954,
+                            "positivity": 32.0099
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "3adbb6cfacf5fe29e2ff48ff",
+                        "mp3": "3adbb6_theme_from_'shaft'_aron_pacocha.mp3",
+                        "songName": "Theme From 'Shaft'",
+                        "artistName": "Aron Pacocha",
+                        "albumName": "Karma Chameleon",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 16.1156,
+                            "energy": 86.6202,
+                            "rhythm": 76.8591,
+                            "positivity": 7.8727
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "eedf1dae83f83e1e8bf4cc42",
+                        "mp3": "eedf1d_stronger_hester_renner.mp3",
+                        "songName": "Stronger",
+                        "artistName": "Hester Renner",
+                        "albumName": "The Rose",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 93.9715,
+                            "energy": 29.6392,
+                            "rhythm": 54.1293,
+                            "positivity": 65.2615
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "ace4fab8bbeb52f4db69cad1",
+                        "mp3": "ace4fa_let_it_snow!_let_it_snow!_let_it_snow!_garry_williamson.mp3",
+                        "songName": "Let it Snow! Let it Snow! Let it Snow!",
+                        "artistName": "Garry Williamson",
+                        "albumName": "Family Affair",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 87.9741,
+                            "energy": 5.702,
+                            "rhythm": 19.2705,
+                            "positivity": 78.6985
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "bef77c4fca20cff96b0a7bac",
+                        "mp3": "bef77c_touch_me_leonardo_schultz.mp3",
+                        "songName": "Touch Me",
+                        "artistName": "Leonardo Schultz",
+                        "albumName": "Proud Mary",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 81.8224,
+                            "energy": 85.6644,
+                            "rhythm": 54.5412,
+                            "positivity": 16.9898
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_6": {
+        "id": "b6fadc9daba1bd19a2fdcf3f",
+        "password": "CFfsI5Sw5CYs",
+        "firstName": "Leigh",
+        "lastName": "Cummerata",
+        "fullName": "Leigh Cummerata",
+        "email": "Leigh2@yahoo.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "e549fc0afe55a5d8701df2a7",
+                        "mp3": "e549fc_a_whole_new_world_(aladdin's_theme)_keshaun_conroy.mp3",
+                        "songName": "A Whole New World (Aladdin's Theme)",
+                        "artistName": "Keshaun Conroy",
+                        "albumName": "U Got it Bad",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 19.6007,
+                            "energy": 40.6186,
+                            "rhythm": 95.6662,
+                            "positivity": 43.0409
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "be94a0cffcf66ad11bd6bb0f",
+                        "mp3": "be94a0_good_vibrations_marlee_kulas.mp3",
+                        "songName": "Good Vibrations",
+                        "artistName": "Marlee Kulas",
+                        "albumName": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 53.6349,
+                            "energy": 46.6879,
+                            "rhythm": 33.9362,
+                            "positivity": 66.4569
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "5bfcfcf0cc08bd3ce7a35aad",
+                        "mp3": "5bfcfc_tsop_(the_sound_of_philadelphia)_hellen_bradtke.mp3",
+                        "songName": "TSOP (The Sound of Philadelphia)",
+                        "artistName": "Hellen Bradtke",
+                        "albumName": "(Ghost) Riders in the Sky",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 99.2791,
+                            "energy": 82.7256,
+                            "rhythm": 27.5933,
+                            "positivity": 4.9859
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "cb4daa5a85ebcbf9ff1b1dd0",
+                        "mp3": "cb4daa_i_still_haven't_found_what_i'm_looking_for_nona_mohr.mp3",
+                        "songName": "I Still Haven't Found What I'm Looking For",
+                        "artistName": "Nona Mohr",
+                        "albumName": "(Ghost) Riders in the Sky",
+                        "genre": "Country",
+                        "characteristics": {
+                            "volume": 41.8675,
+                            "energy": 26.1004,
+                            "rhythm": 80.1339,
+                            "positivity": 26.1609
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "e03ddb3dc9126f90e0db7429",
+                        "mp3": "e03ddb_maggie_may_andreane_wolf.mp3",
+                        "songName": "Maggie May",
+                        "artistName": "Andreane Wolf",
+                        "albumName": "Sailing",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 18.0342,
+                            "energy": 70.5301,
+                            "rhythm": 34.3819,
+                            "positivity": 91.4668
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_7": {
+        "id": "edd3535e89706b1a099c9b41",
+        "password": "a1fKd7sCX9Ea81OZ",
+        "firstName": "Zachary",
+        "lastName": "Osinski",
+        "fullName": "Zachary Osinski",
+        "email": "Zachary11@yahoo.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "7deef0acdd5dfb1be7add8c6",
+                        "mp3": "7deef0_we_are_the_world_beaulah_wyman.mp3",
+                        "songName": "We Are the World",
+                        "artistName": "Beaulah Wyman",
+                        "albumName": "Rhapsody in Blue",
+                        "genre": "Electronic",
+                        "characteristics": {
+                            "volume": 87.8765,
+                            "energy": 6.406,
+                            "rhythm": 74.0856,
+                            "positivity": 57.4638
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "ace4fab8bbeb52f4db69cad1",
+                        "mp3": "ace4fa_let_it_snow!_let_it_snow!_let_it_snow!_garry_williamson.mp3",
+                        "songName": "Let it Snow! Let it Snow! Let it Snow!",
+                        "artistName": "Garry Williamson",
+                        "albumName": "Family Affair",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 87.9741,
+                            "energy": 5.702,
+                            "rhythm": 19.2705,
+                            "positivity": 78.6985
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "c5d5067d73b73b61bd4504da",
+                        "mp3": "c5d506_let_me_call_you_sweetheart_tiana_christiansen.mp3",
+                        "songName": "Let Me Call You Sweetheart",
+                        "artistName": "Tiana Christiansen",
+                        "albumName": "Bohemian Rhapsody",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 18.8252,
+                            "energy": 6.4836,
+                            "rhythm": 83.0966,
+                            "positivity": 2.9052
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "e549fc0afe55a5d8701df2a7",
+                        "mp3": "e549fc_a_whole_new_world_(aladdin's_theme)_keshaun_conroy.mp3",
+                        "songName": "A Whole New World (Aladdin's Theme)",
+                        "artistName": "Keshaun Conroy",
+                        "albumName": "U Got it Bad",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 19.6007,
+                            "energy": 40.6186,
+                            "rhythm": 95.6662,
+                            "positivity": 43.0409
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "4ad7e3e4baeaf247f6e4dbfa",
+                        "mp3": "4ad7e3_that's_what_friends_are_for_karson_lowe.mp3",
+                        "songName": "That's What Friends Are For",
+                        "artistName": "Karson Lowe",
+                        "albumName": "Make Love to Me",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 34.1286,
+                            "energy": 62.9208,
+                            "rhythm": 87.5865,
+                            "positivity": 94.3489
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_8": {
+        "id": "cde68947d41ea9c3c1f30590",
+        "password": "QICJCAl",
+        "firstName": "Naomi",
+        "lastName": "Conroy",
+        "fullName": "Naomi Conroy",
+        "email": "Naomi_Conroy56@yahoo.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "fcb4cb0a53fb2c4501a9df3a",
+                        "mp3": "fcb4cb_how_high_the_moon_charles_feil.mp3",
+                        "songName": "How High the Moon",
+                        "artistName": "Charles Feil",
+                        "albumName": "Need You Now",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 86.2513,
+                            "energy": 57.2827,
+                            "rhythm": 42.7967,
+                            "positivity": 17.2325
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "c697beffebbff979f47f47a0",
+                        "mp3": "c697be_e.t._otto_bauch.mp3",
+                        "songName": "E.T.",
+                        "artistName": "Otto Bauch",
+                        "albumName": "Kokomo",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 67.7155,
+                            "energy": 23.8375,
+                            "rhythm": 62.6562,
+                            "positivity": 13.0795
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "d7aca69ecefddad975b0bf56",
+                        "mp3": "d7aca6_build_me_up_buttercup_cyrus_mueller.mp3",
+                        "songName": "Build Me Up Buttercup",
+                        "artistName": "Cyrus Mueller",
+                        "albumName": "Why Don't You Believe Me?",
+                        "genre": "R&B",
+                        "characteristics": {
+                            "volume": 81.491,
+                            "energy": 15.3718,
+                            "rhythm": 42.8204,
+                            "positivity": 56.2718
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "c1f1d195c58abf37cddec14c",
+                        "mp3": "c1f1d1_how_you_remind_me_diamond_cartwright.mp3",
+                        "songName": "How You Remind Me",
+                        "artistName": "Diamond Cartwright",
+                        "albumName": "One Sweet Day",
+                        "genre": "Punk",
+                        "characteristics": {
+                            "volume": 99.6932,
+                            "energy": 89.0642,
+                            "rhythm": 67.0957,
+                            "positivity": 33.4379
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "ffcdef21f5759b71a8fca7e5",
+                        "mp3": "ffcdef_you're_so_vain_martina_price.mp3",
+                        "songName": "You're So Vain",
+                        "artistName": "Martina Price",
+                        "albumName": "Faith",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 37.3236,
+                            "energy": 4.0173,
+                            "rhythm": 16.6755,
+                            "positivity": 39.7172
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_9": {
+        "id": "ac9b622c1ccfbc1f6f5db7dd",
+        "password": "rg7JrXCVi",
+        "firstName": "Warren",
+        "lastName": "Monahan",
+        "fullName": "Warren Monahan",
+        "email": "Warren22@hotmail.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "c5d5067d73b73b61bd4504da",
+                        "mp3": "c5d506_let_me_call_you_sweetheart_tiana_christiansen.mp3",
+                        "songName": "Let Me Call You Sweetheart",
+                        "artistName": "Tiana Christiansen",
+                        "albumName": "Bohemian Rhapsody",
+                        "genre": "Rock",
+                        "characteristics": {
+                            "volume": 18.8252,
+                            "energy": 6.4836,
+                            "rhythm": 83.0966,
+                            "positivity": 2.9052
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "efa49ef8eb2bb8bdea160fcd",
+                        "mp3": "efa49e_the_song_from_moulin_rouge_(where_is_your_heart)_lennie_cruickshank.mp3",
+                        "songName": "The Song From Moulin Rouge (Where Is Your Heart)",
+                        "artistName": "Lennie Cruickshank",
+                        "albumName": "Besame Mucho",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 22.8889,
+                            "energy": 61.5926,
+                            "rhythm": 20.1234,
+                            "positivity": 79.4364
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "efa2abda6b68a8f665bffb43",
+                        "mp3": "efa2ab_you_ain't_seen_nothin'_yet_jessie_moen.mp3",
+                        "songName": "You Ain't Seen Nothin' Yet",
+                        "artistName": "Jessie Moen",
+                        "albumName": "The Sweet Escape",
+                        "genre": "Punk",
+                        "characteristics": {
+                            "volume": 89.7877,
+                            "energy": 55.4771,
+                            "rhythm": 83.9507,
+                            "positivity": 26.8022
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "efa2abda6b68a8f665bffb43",
+                        "mp3": "efa2ab_you_ain't_seen_nothin'_yet_jessie_moen.mp3",
+                        "songName": "You Ain't Seen Nothin' Yet",
+                        "artistName": "Jessie Moen",
+                        "albumName": "The Sweet Escape",
+                        "genre": "Punk",
+                        "characteristics": {
+                            "volume": 89.7877,
+                            "energy": 55.4771,
+                            "rhythm": 83.9507,
+                            "positivity": 26.8022
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "d23c0c632cabaab9cf4ff876",
+                        "mp3": "d23c0c_travellin'_band_leo_armstrong.mp3",
+                        "songName": "Travellin' Band",
+                        "artistName": "Leo Armstrong",
+                        "albumName": "Mickey",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 2.1672,
+                            "energy": 21.2614,
+                            "rhythm": 50.7809,
+                            "positivity": 13.4673
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "person_10": {
+        "id": "faeac9abe5d12fedb0cb5c3a",
+        "password": "bUPacA5LsidOrNL",
+        "firstName": "Celia",
+        "lastName": "Abernathy",
+        "fullName": "Celia Abernathy",
+        "email": "Celia93@gmail.com",
+        "playlists": {
+            "playlist_1": [
+                {
+                    "song_1": {
+                        "songId": "33742a0daadcf5d2fcfadca4",
+                        "mp3": "33742a_georgia_on_my_mind_sonya_jacobson.mp3",
+                        "songName": "Georgia On My Mind",
+                        "artistName": "Sonya Jacobson",
+                        "albumName": "I'll Walk Alone",
+                        "genre": "Lofi / Chillhop",
+                        "characteristics": {
+                            "volume": 28.499,
+                            "energy": 30.8562,
+                            "rhythm": 70.9895,
+                            "positivity": 56.8746
+                        }
+                    }
+                },
+                {
+                    "song_2": {
+                        "songId": "c6d3d9aabf96598b5afe3b55",
+                        "mp3": "c6d3d9_being_with_you_hayley_conroy.mp3",
+                        "songName": "Being With You",
+                        "artistName": "Hayley Conroy",
+                        "albumName": "(Sittin' On) the Dock of the Bay",
+                        "genre": "Indie",
+                        "characteristics": {
+                            "volume": 85.7581,
+                            "energy": 91.8875,
+                            "rhythm": 97.8954,
+                            "positivity": 32.0099
+                        }
+                    }
+                },
+                {
+                    "song_3": {
+                        "songId": "2deed0b9caa47da8eb6e14ca",
+                        "mp3": "2deed0_you_make_me_wanna_alvina_kessler.mp3",
+                        "songName": "You make Me Wanna",
+                        "artistName": "Alvina Kessler",
+                        "albumName": "Na Na Hey Hey (Kiss Him Goodbye)",
+                        "genre": "Pop",
+                        "characteristics": {
+                            "volume": 1.8149,
+                            "energy": 23.2754,
+                            "rhythm": 46.7509,
+                            "positivity": 89.4268
+                        }
+                    }
+                },
+                {
+                    "song_4": {
+                        "songId": "cff3ddda0b75013cdf6e2fb8",
+                        "mp3": "cff3dd_you're_the_one_that_i_want_citlalli_roberts.mp3",
+                        "songName": "You're the One That I Want",
+                        "artistName": "Citlalli Roberts",
+                        "albumName": "Mr Brightside",
+                        "genre": "Hip Hop / Rap",
+                        "characteristics": {
+                            "volume": 94.1412,
+                            "energy": 61.436,
+                            "rhythm": 10.7274,
+                            "positivity": 54.6305
+                        }
+                    }
+                },
+                {
+                    "song_5": {
+                        "songId": "11747666b21c08ad1ff4f66b",
+                        "mp3": "117476_she_loves_you_rosella_nitzsche.mp3",
+                        "songName": "She Loves You",
+                        "artistName": "Rosella Nitzsche",
+                        "albumName": "Jive Talkin'",
+                        "genre": "Jazz",
+                        "characteristics": {
+                            "volume": 27.4406,
+                            "energy": 65.7034,
+                            "rhythm": 52.4258,
+                            "positivity": 65.4347
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

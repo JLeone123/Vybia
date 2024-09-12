@@ -1,0 +1,1402 @@
+{
+    "song_1": {
+        "songId": "09a6e5be7a0692fa9f6cde1e",
+        "mp3": "09a6e5_do_you_love_me?_vito_metz.mp3",
+        "songName": "Do You Love Me?",
+        "artistName": "Vito Metz",
+        "albumName": "Dancing in the Street",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 17.1591,
+            "energy": 33.8232,
+            "rhythm": 93.3112,
+            "positivity": 93.0093
+        }
+    },
+    "song_2": {
+        "songId": "d5c6d27dcfdd2eb51acb7f87",
+        "mp3": "d5c6d2_beautiful_day_devon_anderson.mp3",
+        "songName": "Beautiful Day",
+        "artistName": "Devon Anderson",
+        "albumName": "Jailhouse Rock",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 54.5255,
+            "energy": 80.7767,
+            "rhythm": 77.0738,
+            "positivity": 3.3001
+        }
+    },
+    "song_3": {
+        "songId": "ca8da7c9fcbe01a2e1d96f2d",
+        "mp3": "ca8da7_mr_tambourine_man_katherine_moore.mp3",
+        "songName": "Mr Tambourine Man",
+        "artistName": "Katherine Moore",
+        "albumName": "Kryptonite",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 13.1088,
+            "energy": 88.7806,
+            "rhythm": 49.7136,
+            "positivity": 97.7814
+        }
+    },
+    "song_4": {
+        "songId": "fcc37c5502b04fccd5e9cc43",
+        "mp3": "fcc37c_arthur's_theme_(best_that_you_can_do)_hazel_hilll.mp3",
+        "songName": "Arthur's Theme (Best That You Can Do)",
+        "artistName": "Hazel Hilll",
+        "albumName": "After You've Gone",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 63.2096,
+            "energy": 72.3557,
+            "rhythm": 84.7492,
+            "positivity": 60.7835
+        }
+    },
+    "song_5": {
+        "songId": "00eead6f7149f5cb0cfa5cf4",
+        "mp3": "00eead_night_&_day_korey_schneider.mp3",
+        "songName": "Night & Day",
+        "artistName": "Korey Schneider",
+        "albumName": "Lola",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 97.5364,
+            "energy": 46.9282,
+            "rhythm": 33.101,
+            "positivity": 20.8285
+        }
+    },
+    "song_6": {
+        "songId": "985fe588d2ce7b62eee1f3eb",
+        "mp3": "985fe5_pon_de_replay_josiah_wolf.mp3",
+        "songName": "Pon De Replay",
+        "artistName": "Josiah Wolf",
+        "albumName": "This Land is Your Land",
+        "genre": "Electronic",
+        "characteristics": {
+            "volume": 99.2569,
+            "energy": 87.5838,
+            "rhythm": 44.2181,
+            "positivity": 0.5265
+        }
+    },
+    "song_7": {
+        "songId": "1bc3f3994bfc8fd390d1c65f",
+        "mp3": "1bc3f3_i_believe_i_can_fly_nickolas_walker.mp3",
+        "songName": "I Believe I Can Fly",
+        "artistName": "Nickolas Walker",
+        "albumName": "Without Me",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 12.439,
+            "energy": 36.3619,
+            "rhythm": 84.6063,
+            "positivity": 4.9194
+        }
+    },
+    "song_8": {
+        "songId": "fcd3b44540ebdd6ba4f2cbed",
+        "mp3": "fcd3b4_you_really_got_me_cooper_emard.mp3",
+        "songName": "You Really Got Me",
+        "artistName": "Cooper Emard",
+        "albumName": "Chain of Fools",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 44.7284,
+            "energy": 15.1586,
+            "rhythm": 3.148,
+            "positivity": 35.8732
+        }
+    },
+    "song_9": {
+        "songId": "22fe0bcbcf0a313e71d8d318",
+        "mp3": "22fe0b_the_love_you_save_maribel_senger.mp3",
+        "songName": "The Love You Save",
+        "artistName": "Maribel Senger",
+        "albumName": "Bleeding Love",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 98.0099,
+            "energy": 62.6854,
+            "rhythm": 13.8111,
+            "positivity": 87.4439
+        }
+    },
+    "song_10": {
+        "songId": "ce33b229cad8ff7fdc4bf4cd",
+        "mp3": "ce33b2_vision_of_love_marlin_volkman.mp3",
+        "songName": "Vision of Love",
+        "artistName": "Marlin Volkman",
+        "albumName": "Crocodile Rock",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 54.2187,
+            "energy": 62.974,
+            "rhythm": 47.9127,
+            "positivity": 9.2524
+        }
+    },
+    "song_11": {
+        "songId": "abd4a10406d126eb23b0a3d1",
+        "mp3": "abd4a1_dance_to_the_music_dion_ratke.mp3",
+        "songName": "Dance to the Music",
+        "artistName": "Dion Ratke",
+        "albumName": "Doo Wop (That Thing)",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 79.4902,
+            "energy": 77.3819,
+            "rhythm": 55.7282,
+            "positivity": 93.4678
+        }
+    },
+    "song_12": {
+        "songId": "f62e8be1a85bc598ea96ff6e",
+        "mp3": "f62e8b_heart_of_glass_kailee_paucek.mp3",
+        "songName": "Heart of Glass",
+        "artistName": "Kailee Paucek",
+        "albumName": "Billie Jean",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 30.1341,
+            "energy": 48.4412,
+            "rhythm": 84.1393,
+            "positivity": 59.5559
+        }
+    },
+    "song_13": {
+        "songId": "b7831e6ccfd8fe144180a9ef",
+        "mp3": "b7831e_everybody_loves_somebody_jevon_mcclure.mp3",
+        "songName": "Everybody Loves Somebody",
+        "artistName": "Jevon McClure",
+        "albumName": "All Shook Up",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 44.9742,
+            "energy": 96.9811,
+            "rhythm": 42.4123,
+            "positivity": 9.6715
+        }
+    },
+    "song_14": {
+        "songId": "5cbbfa1dcdec3a8aabdaa0d3",
+        "mp3": "5cbbfa_delicado_nico_rice.mp3",
+        "songName": "Delicado",
+        "artistName": "Nico Rice",
+        "albumName": "Hungry Heart",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 51.7668,
+            "energy": 23.762,
+            "rhythm": 18.5359,
+            "positivity": 70.7381
+        }
+    },
+    "song_15": {
+        "songId": "bea1ca9a5bdcfbcbcedf3b0e",
+        "mp3": "bea1ca_sugar_sugar_antwan_macgyver.mp3",
+        "songName": "Sugar Sugar",
+        "artistName": "Antwan MacGyver",
+        "albumName": "Dancing in the Street",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 37.8574,
+            "energy": 37.9698,
+            "rhythm": 11.7807,
+            "positivity": 75.7699
+        }
+    },
+    "song_16": {
+        "songId": "42a8fd2f2536aff6ddbec5fd",
+        "mp3": "42a8fd_me_&_bobby_mcgee_yasmin_kunde.mp3",
+        "songName": "Me & Bobby McGee",
+        "artistName": "Yasmin Kunde",
+        "albumName": "You've Got a Friend",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 70.8884,
+            "energy": 43.7878,
+            "rhythm": 84.3201,
+            "positivity": 79.0081
+        }
+    },
+    "song_17": {
+        "songId": "778baf80a9dea61bf1cd567d",
+        "mp3": "778baf_total_eclipse_of_the_heart_hassan_gutmann.mp3",
+        "songName": "Total Eclipse of the Heart",
+        "artistName": "Hassan Gutmann",
+        "albumName": "The Reason",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 5.3395,
+            "energy": 55.7439,
+            "rhythm": 43.1058,
+            "positivity": 94.7039
+        }
+    },
+    "song_18": {
+        "songId": "09232ea48ddc62d4fecf9b2c",
+        "mp3": "09232e_he's_a_rebel_madonna_sipes.mp3",
+        "songName": "He's a Rebel",
+        "artistName": "Madonna Sipes",
+        "albumName": "Mrs Brown You've Got a Lovely Daughter",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 4.9412,
+            "energy": 79.6397,
+            "rhythm": 70.8119,
+            "positivity": 94.5999
+        }
+    },
+    "song_19": {
+        "songId": "ab1ab7adba2399cbce55bfef",
+        "mp3": "ab1ab7_ball_of_confusion_(that's_what_the_world_is_today)_elise_aufderhar.mp3",
+        "songName": "Ball of Confusion (That's What the World is Today)",
+        "artistName": "Elise Aufderhar",
+        "albumName": "Use Somebody",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 52.6685,
+            "energy": 68.0369,
+            "rhythm": 67.7638,
+            "positivity": 59.0932
+        }
+    },
+    "song_20": {
+        "songId": "9877d8ecb9eafb7ece7d4fea",
+        "mp3": "9877d8_waterfalls_christy_mayer.mp3",
+        "songName": "Waterfalls",
+        "artistName": "Christy Mayer",
+        "albumName": "Airplanes",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 11.0547,
+            "energy": 22.3531,
+            "rhythm": 61.8829,
+            "positivity": 88.4462
+        }
+    },
+    "song_21": {
+        "songId": "4f18ffe213fdff475ed6025e",
+        "mp3": "4f18ff_ol'_man_river_dominique_kovacek.mp3",
+        "songName": "Ol' Man River",
+        "artistName": "Dominique Kovacek",
+        "albumName": "Paint it Black",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 65.8549,
+            "energy": 89.3088,
+            "rhythm": 78.7683,
+            "positivity": 24.478
+        }
+    },
+    "song_22": {
+        "songId": "a6dcee3c6efaea66dbcdf6e2",
+        "mp3": "a6dcee_love_is_a_many_splendoured_thing_joshua_greenholt.mp3",
+        "songName": "Love is a Many Splendoured Thing",
+        "artistName": "Joshua Greenholt",
+        "albumName": "Groove is in the Heart",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 0.7003,
+            "energy": 25.7367,
+            "rhythm": 37.4481,
+            "positivity": 72.7168
+        }
+    },
+    "song_23": {
+        "songId": "afeaf2e4390e188fca5b6e4e",
+        "mp3": "afeaf2_band_of_gold_fred_batz.mp3",
+        "songName": "Band of Gold",
+        "artistName": "Fred Batz",
+        "albumName": "Rosanna",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 75.724,
+            "energy": 87.1098,
+            "rhythm": 55.5582,
+            "positivity": 7.9091
+        }
+    },
+    "song_24": {
+        "songId": "af64fbc4de5fe0daf52d3ae4",
+        "mp3": "af64fb_all_i_wanna_do_liliane_breitenberg.mp3",
+        "songName": "All I Wanna Do",
+        "artistName": "Liliane Breitenberg",
+        "albumName": "I'll Take You There",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 0.9797,
+            "energy": 50.8655,
+            "rhythm": 40.7058,
+            "positivity": 16.5507
+        }
+    },
+    "song_25": {
+        "songId": "73d081fcc0df393f7cef7bfe",
+        "mp3": "73d081_stand_by_me_barton_purdy.mp3",
+        "songName": "Stand By Me",
+        "artistName": "Barton Purdy",
+        "albumName": "House of the Rising Sun",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 37.6695,
+            "energy": 8.6314,
+            "rhythm": 23.2754,
+            "positivity": 58.6215
+        }
+    },
+    "song_26": {
+        "songId": "f8d384ddf01f690af57606f0",
+        "mp3": "f8d384_too_young_anita_dickinson.mp3",
+        "songName": "Too Young",
+        "artistName": "Anita Dickinson",
+        "albumName": "Papa Was a Rolling Stone",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 43.1143,
+            "energy": 69.035,
+            "rhythm": 75.4889,
+            "positivity": 75.5764
+        }
+    },
+    "song_27": {
+        "songId": "7acbb2842cec6cd72f6534db",
+        "mp3": "7acbb2_sexyback_delphine_borer.mp3",
+        "songName": "Sexyback",
+        "artistName": "Delphine Borer",
+        "albumName": "Toxic",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 33.3211,
+            "energy": 2.4318,
+            "rhythm": 85.1636,
+            "positivity": 5.5697
+        }
+    },
+    "song_28": {
+        "songId": "5549e9c58afe2e16dde092e7",
+        "mp3": "5549e9_respect_jannie_schumm.mp3",
+        "songName": "Respect",
+        "artistName": "Jannie Schumm",
+        "albumName": "Spirit in the Sky",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 99.3649,
+            "energy": 95.0505,
+            "rhythm": 80.7576,
+            "positivity": 87.5184
+        }
+    },
+    "song_29": {
+        "songId": "eecbe5f9dbcac788aaf8b42b",
+        "mp3": "eecbe5_all_you_need_is_love_cooper_rogahn.mp3",
+        "songName": "All You Need is Love",
+        "artistName": "Cooper Rogahn",
+        "albumName": "Down",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 73.4807,
+            "energy": 53.2134,
+            "rhythm": 89.4015,
+            "positivity": 93.1503
+        }
+    },
+    "song_30": {
+        "songId": "b7d2a7c6ae4f6c86acefa940",
+        "mp3": "b7d2a7_all_night_long_(all_night)_americo_o'keefe.mp3",
+        "songName": "All Night Long (All Night)",
+        "artistName": "Americo O'Keefe",
+        "albumName": "Breaking Up is Hard to Do",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 10.0231,
+            "energy": 17.4771,
+            "rhythm": 13.1387,
+            "positivity": 92.1659
+        }
+    },
+    "song_31": {
+        "songId": "4e1ccdc1af876eecd3bffdf6",
+        "mp3": "4e1ccd_baker_street_adolph_blick.mp3",
+        "songName": "Baker Street",
+        "artistName": "Adolph Blick",
+        "albumName": "She Loves You",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 31.7391,
+            "energy": 87.57,
+            "rhythm": 41.9938,
+            "positivity": 89.7474
+        }
+    },
+    "song_32": {
+        "songId": "afbcfa1f7ef3ce7842ec896e",
+        "mp3": "afbcfa_three_times_a_lady_deontae_gerhold.mp3",
+        "songName": "Three Times a Lady",
+        "artistName": "Deontae Gerhold",
+        "albumName": "Apologize",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 23.2475,
+            "energy": 52.7043,
+            "rhythm": 51.0224,
+            "positivity": 90.5828
+        }
+    },
+    "song_33": {
+        "songId": "932ac9164cffbadadd0445f6",
+        "mp3": "932ac9_how_you_remind_me_shayne_barrows.mp3",
+        "songName": "How You Remind Me",
+        "artistName": "Shayne Barrows",
+        "albumName": "Sailing",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 3.8981,
+            "energy": 26.0114,
+            "rhythm": 14.1335,
+            "positivity": 93.7276
+        }
+    },
+    "song_34": {
+        "songId": "51d56f9b6cda5acdfd3be0fe",
+        "mp3": "51d56f_one_sweet_day_frederick_pfeffer.mp3",
+        "songName": "One Sweet Day",
+        "artistName": "Frederick Pfeffer",
+        "albumName": "Blue Tango",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 81.5837,
+            "energy": 59.3851,
+            "rhythm": 38.0413,
+            "positivity": 84.1189
+        }
+    },
+    "song_35": {
+        "songId": "fccea13babc1a8facedec02e",
+        "mp3": "fccea1_too_young_kristopher_wiegand.mp3",
+        "songName": "Too Young",
+        "artistName": "Kristopher Wiegand",
+        "albumName": "Pony Time",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 95.7363,
+            "energy": 36.4799,
+            "rhythm": 17.3252,
+            "positivity": 35.3688
+        }
+    },
+    "song_36": {
+        "songId": "cc0fbfb7ba1c81b59cef6d91",
+        "mp3": "cc0fbf_earth_angel_rozella_johnston.mp3",
+        "songName": "Earth Angel",
+        "artistName": "Rozella Johnston",
+        "albumName": "Say You",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 63.5618,
+            "energy": 72.1028,
+            "rhythm": 62.4221,
+            "positivity": 55.7274
+        }
+    },
+    "song_37": {
+        "songId": "b8bef4dccc0f8d25c3bde97b",
+        "mp3": "b8bef4_incense_&_peppermints_mina_reilly.mp3",
+        "songName": "Incense & Peppermints",
+        "artistName": "Mina Reilly",
+        "albumName": "Brother Louie",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 24.5657,
+            "energy": 11.904,
+            "rhythm": 62.3201,
+            "positivity": 62.1464
+        }
+    },
+    "song_38": {
+        "songId": "ca60b2b84c6fda1d57e5f481",
+        "mp3": "ca60b2_brown_sugar_nathanial_schmeler.mp3",
+        "songName": "Brown Sugar",
+        "artistName": "Nathanial Schmeler",
+        "albumName": "I Will Always Love You",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 94.6546,
+            "energy": 97.0454,
+            "rhythm": 96.3505,
+            "positivity": 28.8031
+        }
+    },
+    "song_39": {
+        "songId": "fed0da9aead666ba9fad21e9",
+        "mp3": "fed0da_theme_from_'greatest_american_hero'_(believe_it_or_not)_eddie_corwin.mp3",
+        "songName": "Theme From 'Greatest American Hero' (Believe It Or Not)",
+        "artistName": "Eddie Corwin",
+        "albumName": "A Hard Day's Night",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 87.9328,
+            "energy": 79.5126,
+            "rhythm": 51.8184,
+            "positivity": 18.9843
+        }
+    },
+    "song_40": {
+        "songId": "db5a2a71ea9e9b2a21f0b7dc",
+        "mp3": "db5a2a_don't_you_(forget_about_me)_hyman_cruickshank.mp3",
+        "songName": "Don't You (Forget About Me)",
+        "artistName": "Hyman Cruickshank",
+        "albumName": "Wind Beneath My Wings",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 19.2968,
+            "energy": 36.3658,
+            "rhythm": 33.9723,
+            "positivity": 55.6305
+        }
+    },
+    "song_41": {
+        "songId": "eac5ce2ecddb98c0ef62ac18",
+        "mp3": "eac5ce_under_the_bridge_sandy_mccullough.mp3",
+        "songName": "Under the Bridge",
+        "artistName": "Sandy McCullough",
+        "albumName": "I Can't Help Myself (Sugar Pie",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 46.0231,
+            "energy": 4.8745,
+            "rhythm": 99.2141,
+            "positivity": 12.0801
+        }
+    },
+    "song_42": {
+        "songId": "d5c6b6cde91404e8a9ae239e",
+        "mp3": "d5c6b6_tiger_rag_layne_goyette.mp3",
+        "songName": "Tiger Rag",
+        "artistName": "Layne Goyette",
+        "albumName": "One Bad Apple",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 35.2983,
+            "energy": 35.1932,
+            "rhythm": 43.4148,
+            "positivity": 53.8467
+        }
+    },
+    "song_43": {
+        "songId": "74d4cb3f5856eb9837d5ecc3",
+        "mp3": "74d4cb_play_that_funky_music_ulices_conn.mp3",
+        "songName": "Play That Funky Music",
+        "artistName": "Ulices Conn",
+        "albumName": "With Or Without You",
+        "genre": "Electronic",
+        "characteristics": {
+            "volume": 8.249,
+            "energy": 87.117,
+            "rhythm": 17.3733,
+            "positivity": 21.8392
+        }
+    },
+    "song_44": {
+        "songId": "2d19ac894d3c90d9b4af22cf",
+        "mp3": "2d19ac_all_along_the_watchtower_misty_borer.mp3",
+        "songName": "All Along the Watchtower",
+        "artistName": "Misty Borer",
+        "albumName": "Crazy Little Thing Called Love",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 66.3606,
+            "energy": 95.8766,
+            "rhythm": 46.2744,
+            "positivity": 30.8857
+        }
+    },
+    "song_45": {
+        "songId": "b8bebbdb4dd59595afc2ee41",
+        "mp3": "b8bebb_little_things_mean_a_lot_naomi_gibson.mp3",
+        "songName": "Little Things Mean a Lot",
+        "artistName": "Naomi Gibson",
+        "albumName": "(Sittin' On) the Dock of the Bay",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 70.9688,
+            "energy": 90.0581,
+            "rhythm": 95.6535,
+            "positivity": 5.4695
+        }
+    },
+    "song_46": {
+        "songId": "322ec27570cf3ea57f95b5cf",
+        "mp3": "322ec2_never_gonna_give_you_up_francesca_kutch.mp3",
+        "songName": "Never Gonna Give You Up",
+        "artistName": "Francesca Kutch",
+        "albumName": "Your Cheatin' Heart",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 72.9488,
+            "energy": 87.9708,
+            "rhythm": 55.6032,
+            "positivity": 96.3213
+        }
+    },
+    "song_47": {
+        "songId": "98fe394b5c210fe0c99b5f07",
+        "mp3": "98fe39_glory_of_love_horace_quitzon.mp3",
+        "songName": "Glory of Love",
+        "artistName": "Horace Quitzon",
+        "albumName": "When Doves Cry",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 71.7036,
+            "energy": 42.8581,
+            "rhythm": 58.115,
+            "positivity": 13.1268
+        }
+    },
+    "song_48": {
+        "songId": "4bfebacea641b5f2cdcbd212",
+        "mp3": "4bfeba_wheel_of_fortune_jaime_muller.mp3",
+        "songName": "Wheel of Fortune",
+        "artistName": "Jaime Muller",
+        "albumName": "I Will Survive",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 62.1044,
+            "energy": 29.1797,
+            "rhythm": 98.1794,
+            "positivity": 94.2165
+        }
+    },
+    "song_49": {
+        "songId": "c2ab8ccecd1ed4ccb6829dba",
+        "mp3": "c2ab8c_last_train_to_clarksville_otho_powlowski.mp3",
+        "songName": "Last Train to Clarksville",
+        "artistName": "Otho Powlowski",
+        "albumName": "St George & the Dragonette",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 90.4539,
+            "energy": 16.3438,
+            "rhythm": 72.623,
+            "positivity": 42.7639
+        }
+    },
+    "song_50": {
+        "songId": "b144d6aaa1e03ca456eebbca",
+        "mp3": "b144d6_rapture_edmund_runolfsdottir-smitham.mp3",
+        "songName": "Rapture",
+        "artistName": "Edmund Runolfsdottir-Smitham",
+        "albumName": "Blaze of Glory",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 35.3191,
+            "energy": 71.4027,
+            "rhythm": 10.319,
+            "positivity": 81.0261
+        }
+    },
+    "song_51": {
+        "songId": "6cfbbae5f9fa9bcbaeff9f8d",
+        "mp3": "6cfbba_pop_muzik_celine_stokes.mp3",
+        "songName": "Pop Muzik",
+        "artistName": "Celine Stokes",
+        "albumName": "Don't Let the Stars Get in Your Eyes",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 27.5924,
+            "energy": 70.1376,
+            "rhythm": 52.2566,
+            "positivity": 84.6397
+        }
+    },
+    "song_52": {
+        "songId": "a68178b1bcc3cb39b76cfdfc",
+        "mp3": "a68178_i'm_so_lonesome_i_could_cry_lourdes_lakin.mp3",
+        "songName": "I'm So Lonesome I Could Cry",
+        "artistName": "Lourdes Lakin",
+        "albumName": "Little Darlin'",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 88.0442,
+            "energy": 82.0226,
+            "rhythm": 90.1062,
+            "positivity": 29.45
+        }
+    },
+    "song_53": {
+        "songId": "d5caaa2fd43ab10efbb5f894",
+        "mp3": "d5caaa_only_you_(and_you_alone)_ariane_white.mp3",
+        "songName": "Only You (And You Alone)",
+        "artistName": "Ariane White",
+        "albumName": "Brother",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 3.7021,
+            "energy": 63.4427,
+            "rhythm": 89.2376,
+            "positivity": 34.2122
+        }
+    },
+    "song_54": {
+        "songId": "ada54f67a1f2cbcbb8534ece",
+        "mp3": "ada54f_grenade_cornelius_keeling.mp3",
+        "songName": "Grenade",
+        "artistName": "Cornelius Keeling",
+        "albumName": "This Ole House",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 0.4288,
+            "energy": 60.6183,
+            "rhythm": 38.3217,
+            "positivity": 42.5993
+        }
+    },
+    "song_55": {
+        "songId": "dcf2e54afc224902aa07b763",
+        "mp3": "dcf2e5_leader_of_the_pack_willie_ferry.mp3",
+        "songName": "Leader of the Pack",
+        "artistName": "Willie Ferry",
+        "albumName": "Every Breath You Take",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 68.4991,
+            "energy": 86.4513,
+            "rhythm": 43.5164,
+            "positivity": 57.8311
+        }
+    },
+    "song_56": {
+        "songId": "29fff412ec7de9120a7b5c1d",
+        "mp3": "29fff4_yeah!_winfield_graham.mp3",
+        "songName": "Yeah!",
+        "artistName": "Winfield Graham",
+        "albumName": "Jive Talkin'",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 39.3943,
+            "energy": 55.571,
+            "rhythm": 93.8846,
+            "positivity": 11.6811
+        }
+    },
+    "song_57": {
+        "songId": "b92ae20d8091c4ce819832c6",
+        "mp3": "b92ae2_all_you_need_is_love_raegan_vonrueden.mp3",
+        "songName": "All You Need is Love",
+        "artistName": "Raegan VonRueden",
+        "albumName": "One More Try",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 0.2164,
+            "energy": 66.338,
+            "rhythm": 83.4138,
+            "positivity": 76.6432
+        }
+    },
+    "song_58": {
+        "songId": "445deb3df2ea1daf12cef76c",
+        "mp3": "445deb_let's_stay_together_albert_mohr.mp3",
+        "songName": "Let's Stay Together",
+        "artistName": "Albert Mohr",
+        "albumName": "When a Man Loves a Woman",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 60.2152,
+            "energy": 19.9221,
+            "rhythm": 51.016,
+            "positivity": 51.9369
+        }
+    },
+    "song_59": {
+        "songId": "2dfefc5dbedaffcedb6ccaa4",
+        "mp3": "2dfefc_tears_of_a_clown_micah_greenfelder.mp3",
+        "songName": "Tears of a Clown",
+        "artistName": "Micah Greenfelder",
+        "albumName": "Time of the Season",
+        "genre": "Electronic",
+        "characteristics": {
+            "volume": 2.1958,
+            "energy": 97.5252,
+            "rhythm": 9.2928,
+            "positivity": 18.2522
+        }
+    },
+    "song_60": {
+        "songId": "e1bf90bea0ed462ad3f72710",
+        "mp3": "e1bf90_love_letters_in_the_sand_granville_o'connell.mp3",
+        "songName": "Love Letters in the Sand",
+        "artistName": "Granville O'Connell",
+        "albumName": "Love Theme From 'A Star is Born' (Evergreen)",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 80.8828,
+            "energy": 12.9336,
+            "rhythm": 16.178,
+            "positivity": 81.423
+        }
+    },
+    "song_61": {
+        "songId": "de9d6bf01def00bfbc8b2da2",
+        "mp3": "de9d6b_love_me_tender_nick_okuneva.mp3",
+        "songName": "Love Me Tender",
+        "artistName": "Nick Okuneva",
+        "albumName": "Midnight Train to Georgia",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 70.898,
+            "energy": 51.7887,
+            "rhythm": 90.359,
+            "positivity": 66.9921
+        }
+    },
+    "song_62": {
+        "songId": "b94baf2c0a392443ceea6b46",
+        "mp3": "b94baf_angie_guiseppe_hessel.mp3",
+        "songName": "Angie",
+        "artistName": "Guiseppe Hessel",
+        "albumName": "Rapture",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 18.8636,
+            "energy": 9.6877,
+            "rhythm": 0.6451,
+            "positivity": 82.5903
+        }
+    },
+    "song_63": {
+        "songId": "0d2747fbc6713906addfd2e6",
+        "mp3": "0d2747_love_theme_from_'a_star_is_born'_(evergreen)_mary_dubuque-jerde.mp3",
+        "songName": "Love Theme From 'A Star is Born' (Evergreen)",
+        "artistName": "Mary DuBuque-Jerde",
+        "albumName": "Rolling In The Deep",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 46.7608,
+            "energy": 39.6498,
+            "rhythm": 30.6322,
+            "positivity": 77.4427
+        }
+    },
+    "song_64": {
+        "songId": "08b98efd4fab7c2ea87a4e33",
+        "mp3": "08b98e_ain't_that_a_shame_maryjane_rohan.mp3",
+        "songName": "Ain't That a Shame",
+        "artistName": "Maryjane Rohan",
+        "albumName": "Johnny B Goode",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 13.1205,
+            "energy": 52.8711,
+            "rhythm": 94.2856,
+            "positivity": 43.168
+        }
+    },
+    "song_65": {
+        "songId": "1c818c2f8eef3feec905dbb7",
+        "mp3": "1c818c_a_string_of_pearls_amara_rau.mp3",
+        "songName": "A String of Pearls",
+        "artistName": "Amara Rau",
+        "albumName": "I Swear",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 84.2826,
+            "energy": 23.9952,
+            "rhythm": 50.3998,
+            "positivity": 32.4931
+        }
+    },
+    "song_66": {
+        "songId": "33247e5ba13be7ccf50dd4aa",
+        "mp3": "33247e_get_back_branson_doyle.mp3",
+        "songName": "Get Back",
+        "artistName": "Branson Doyle",
+        "albumName": "Minnie the Moocher",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 24.6874,
+            "energy": 25.139,
+            "rhythm": 30.8435,
+            "positivity": 24.6541
+        }
+    },
+    "song_67": {
+        "songId": "0943b5ccbe9af2e94fbfca9c",
+        "mp3": "0943b5_sweet_caroline_(good_times_never_seemed_so_good)_verona_nolan.mp3",
+        "songName": "Sweet Caroline (Good Times Never Seemed So Good)",
+        "artistName": "Verona Nolan",
+        "albumName": "Oh Happy Day",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 19.8896,
+            "energy": 7.4514,
+            "rhythm": 33.7899,
+            "positivity": 86.8043
+        }
+    },
+    "song_68": {
+        "songId": "4d19ebccbbe8ee8d47ebb9a3",
+        "mp3": "4d19eb_paint_it_black_clemens_turner.mp3",
+        "songName": "Paint it Black",
+        "artistName": "Clemens Turner",
+        "albumName": "Swanee",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 48.4202,
+            "energy": 2.0171,
+            "rhythm": 22.8547,
+            "positivity": 88.8906
+        }
+    },
+    "song_69": {
+        "songId": "a0ad2bced5604ea299a6df15",
+        "mp3": "a0ad2b_no_one_joey_terry.mp3",
+        "songName": "No One",
+        "artistName": "Joey Terry",
+        "albumName": "In Da Club",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 11.0611,
+            "energy": 24.1685,
+            "rhythm": 49.3371,
+            "positivity": 63.6252
+        }
+    },
+    "song_70": {
+        "songId": "f0a4efc2e38739cb605db62f",
+        "mp3": "f0a4ef_three_coins_in_the_fountain_dedric_sauer.mp3",
+        "songName": "Three Coins in the Fountain",
+        "artistName": "Dedric Sauer",
+        "albumName": "Promiscuous",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 66.6388,
+            "energy": 43.6989,
+            "rhythm": 66.9215,
+            "positivity": 44.7656
+        }
+    },
+    "song_71": {
+        "songId": "fae4bb5af84435fcae9abf3c",
+        "mp3": "fae4bb_nature_boy_presley_bergnaum.mp3",
+        "songName": "Nature Boy",
+        "artistName": "Presley Bergnaum",
+        "albumName": "Hello Dolly",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 75.9259,
+            "energy": 80.7742,
+            "rhythm": 80.2515,
+            "positivity": 64.9467
+        }
+    },
+    "song_72": {
+        "songId": "12dc0d2d5be0583abdbd728d",
+        "mp3": "12dc0d_rag_doll_alyce_dietrich.mp3",
+        "songName": "Rag Doll",
+        "artistName": "Alyce Dietrich",
+        "albumName": "This Guy's in Love With You",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 47.3507,
+            "energy": 36.2097,
+            "rhythm": 47.8451,
+            "positivity": 50.2377
+        }
+    },
+    "song_73": {
+        "songId": "50a33c5c110b31c3200f2c22",
+        "mp3": "50a33c_take_the_'a'_train_ashley_hamill.mp3",
+        "songName": "Take The 'A' Train",
+        "artistName": "Ashley Hamill",
+        "albumName": "Sunday",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 82.8723,
+            "energy": 27.3832,
+            "rhythm": 97.6327,
+            "positivity": 91.1733
+        }
+    },
+    "song_74": {
+        "songId": "70f0193a765cf34fc7fee7c5",
+        "mp3": "70f019_waterfalls_otto_rutherford.mp3",
+        "songName": "Waterfalls",
+        "artistName": "Otto Rutherford",
+        "albumName": "Sleep Walk",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 90.0514,
+            "energy": 47.2742,
+            "rhythm": 28.4505,
+            "positivity": 20.6715
+        }
+    },
+    "song_75": {
+        "songId": "d0d1ff94e2dab199bfbab855",
+        "mp3": "d0d1ff_walk_don't_run_ari_quigley.mp3",
+        "songName": "Walk Don't Run",
+        "artistName": "Ari Quigley",
+        "albumName": "Hey Ya!",
+        "genre": "Country",
+        "characteristics": {
+            "volume": 5.2605,
+            "energy": 57.4351,
+            "rhythm": 58.7,
+            "positivity": 39.8644
+        }
+    },
+    "song_76": {
+        "songId": "cda132997767fd8ab4e40eac",
+        "mp3": "cda132_there_goes_my_baby_narciso_nader-gibson.mp3",
+        "songName": "There goes my baby",
+        "artistName": "Narciso Nader-Gibson",
+        "albumName": "Sleepy Lagoon",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 33.0685,
+            "energy": 23.2111,
+            "rhythm": 67.6751,
+            "positivity": 34.5783
+        }
+    },
+    "song_77": {
+        "songId": "c8901d17a5369446ea6effca",
+        "mp3": "c8901d_big_bad_john_grady_jacobs.mp3",
+        "songName": "Big Bad John",
+        "artistName": "Grady Jacobs",
+        "albumName": "On the Atchison",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 14.3029,
+            "energy": 71.6653,
+            "rhythm": 42.6392,
+            "positivity": 77.6961
+        }
+    },
+    "song_78": {
+        "songId": "9fd1ba265e9a2dea6b89ce9c",
+        "mp3": "9fd1ba_hurt_so_good_kamryn_blick.mp3",
+        "songName": "Hurt So Good",
+        "artistName": "Kamryn Blick",
+        "albumName": "Me & Bobby McGee",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 52.3601,
+            "energy": 93.5538,
+            "rhythm": 18.1379,
+            "positivity": 67.6425
+        }
+    },
+    "song_79": {
+        "songId": "9ae4cb8daef88ea534f6bd1c",
+        "mp3": "9ae4cb_another_one_bites_the_dust_mckayla_torphy.mp3",
+        "songName": "Another One Bites the Dust",
+        "artistName": "Mckayla Torphy",
+        "albumName": "Where is the Love?",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 9.5525,
+            "energy": 56.1227,
+            "rhythm": 38.4401,
+            "positivity": 39.162
+        }
+    },
+    "song_80": {
+        "songId": "167f7c3e69b892aeed6bcd3e",
+        "mp3": "167f7c_mercy_mercy_me_(the_ecology)_tabitha_bernhard.mp3",
+        "songName": "Mercy Mercy Me (The Ecology)",
+        "artistName": "Tabitha Bernhard",
+        "albumName": "Groove is in the Heart",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 75.7099,
+            "energy": 38.5303,
+            "rhythm": 69.5225,
+            "positivity": 3.3474
+        }
+    },
+    "song_81": {
+        "songId": "d72dbabdadaad6837e609ba5",
+        "mp3": "d72dba_19th_nervous_breakdown_dorothea_klein.mp3",
+        "songName": "19th Nervous Breakdown",
+        "artistName": "Dorothea Klein",
+        "albumName": "I'm a Believer",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 59.1372,
+            "energy": 99.9642,
+            "rhythm": 39.1362,
+            "positivity": 88.4985
+        }
+    },
+    "song_82": {
+        "songId": "607fcacee5ab4d41ad7bcb6d",
+        "mp3": "607fca_mrs_brown_you've_got_a_lovely_daughter_darryl_gorczany.mp3",
+        "songName": "Mrs Brown You've Got a Lovely Daughter",
+        "artistName": "Darryl Gorczany",
+        "albumName": "Soul Man",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 29.2342,
+            "energy": 36.9531,
+            "rhythm": 61.5353,
+            "positivity": 49.4071
+        }
+    },
+    "song_83": {
+        "songId": "9ef3deeaa9adcbdef94bd5eb",
+        "mp3": "9ef3de_glory_of_love_lindsay_welch.mp3",
+        "songName": "Glory of Love",
+        "artistName": "Lindsay Welch",
+        "albumName": "Lookin' Out My Back Door",
+        "genre": "Jazz",
+        "characteristics": {
+            "volume": 96.2757,
+            "energy": 78.1536,
+            "rhythm": 8.5805,
+            "positivity": 33.5939
+        }
+    },
+    "song_84": {
+        "songId": "08609711f56244d3fccbbcfd",
+        "mp3": "086097_at_the_hop_lavon_collier.mp3",
+        "songName": "At the Hop",
+        "artistName": "Lavon Collier",
+        "albumName": "How You Remind Me",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 6.0772,
+            "energy": 35.6676,
+            "rhythm": 40.5203,
+            "positivity": 93.7883
+        }
+    },
+    "song_85": {
+        "songId": "8e6ee005b662a76df7947d6a",
+        "mp3": "8e6ee0_makin'_whoopee_tomas_weber.mp3",
+        "songName": "Makin' Whoopee",
+        "artistName": "Tomas Weber",
+        "albumName": "Somebody That I Used to Know",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 21.2143,
+            "energy": 96.024,
+            "rhythm": 9.1707,
+            "positivity": 30.9301
+        }
+    },
+    "song_86": {
+        "songId": "df2cbc90bd2ceb099aeff683",
+        "mp3": "df2cbc_family_affair_chadrick_rolfson.mp3",
+        "songName": "Family Affair",
+        "artistName": "Chadrick Rolfson",
+        "albumName": "One of These Nights",
+        "genre": "Lofi / Chillhop",
+        "characteristics": {
+            "volume": 15.6515,
+            "energy": 7.0766,
+            "rhythm": 15.3758,
+            "positivity": 48.7208
+        }
+    },
+    "song_87": {
+        "songId": "b732ad5a0fa2dd995acffbfa",
+        "mp3": "b732ad_gypsies_daphney_kris.mp3",
+        "songName": "Gypsies",
+        "artistName": "Daphney Kris",
+        "albumName": "Let Me Call You Sweetheart",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 2.0879,
+            "energy": 42.9552,
+            "rhythm": 61.1894,
+            "positivity": 88.0963
+        }
+    },
+    "song_88": {
+        "songId": "dca1eebcf10fcc7fa974ee3f",
+        "mp3": "dca1ee_surfin'_usa_reggie_lakin.mp3",
+        "songName": "Surfin' USA",
+        "artistName": "Reggie Lakin",
+        "albumName": "All I Have to Do is Dream",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 59.1826,
+            "energy": 77.6192,
+            "rhythm": 90.7735,
+            "positivity": 86.2844
+        }
+    },
+    "song_89": {
+        "songId": "7e528abaec44106ddaf4dfa7",
+        "mp3": "7e528a_wind_beneath_my_wings_luz_mclaughlin.mp3",
+        "songName": "Wind Beneath My Wings",
+        "artistName": "Luz McLaughlin",
+        "albumName": "Love Me Do",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 51.66,
+            "energy": 85.4798,
+            "rhythm": 85.1595,
+            "positivity": 67.2982
+        }
+    },
+    "song_90": {
+        "songId": "6ecb97b2cdf3df76fbda57aa",
+        "mp3": "6ecb97_brandy_(you're_a_fine_girl)_jaylan_gottlieb.mp3",
+        "songName": "Brandy (You're A Fine Girl)",
+        "artistName": "Jaylan Gottlieb",
+        "albumName": "Nothin' on You",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 20.3594,
+            "energy": 5.8504,
+            "rhythm": 12.7181,
+            "positivity": 41.0811
+        }
+    },
+    "song_91": {
+        "songId": "1c91c95bad8dfebb19e0c2fc",
+        "mp3": "1c91c9_honky_tonk_jonas_keebler.mp3",
+        "songName": "Honky Tonk",
+        "artistName": "Jonas Keebler",
+        "albumName": "Pennies From Heaven",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 62.3966,
+            "energy": 61.1398,
+            "rhythm": 45.87,
+            "positivity": 56.5955
+        }
+    },
+    "song_92": {
+        "songId": "a9b9ad2dc1dabe2ac482fed2",
+        "mp3": "a9b9ad_do_that_to_me_one_more_time_yvette_harber.mp3",
+        "songName": "Do That to Me One More Time",
+        "artistName": "Yvette Harber",
+        "albumName": "Jump",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 8.4949,
+            "energy": 31.5004,
+            "rhythm": 56.2572,
+            "positivity": 92.4922
+        }
+    },
+    "song_93": {
+        "songId": "848d580cf0ecde886dbd75d2",
+        "mp3": "848d58_some_enchanted_evening_dusty_mcglynn.mp3",
+        "songName": "Some Enchanted Evening",
+        "artistName": "Dusty McGlynn",
+        "albumName": "I'm a Believer",
+        "genre": "Punk",
+        "characteristics": {
+            "volume": 19.4862,
+            "energy": 18.2046,
+            "rhythm": 6.8233,
+            "positivity": 89.3882
+        }
+    },
+    "song_94": {
+        "songId": "07679d5ca1db6f4170132bb0",
+        "mp3": "07679d_tears_in_heaven_thomas_mann.mp3",
+        "songName": "Tears in Heaven",
+        "artistName": "Thomas Mann",
+        "albumName": "Night Fever",
+        "genre": "Pop",
+        "characteristics": {
+            "volume": 2.7622,
+            "energy": 18.1654,
+            "rhythm": 64.3244,
+            "positivity": 62.7223
+        }
+    },
+    "song_95": {
+        "songId": "60afcf9e6ceaac1fec8b832c",
+        "mp3": "60afcf_i_want_to_know_what_love_is_kaitlin_d'amore.mp3",
+        "songName": "I Want to Know What Love Is",
+        "artistName": "Kaitlin D'Amore",
+        "albumName": "I'll Make Love to You",
+        "genre": "R&B",
+        "characteristics": {
+            "volume": 99.923,
+            "energy": 95.3395,
+            "rhythm": 23.8036,
+            "positivity": 76.041
+        }
+    },
+    "song_96": {
+        "songId": "ecfbef2651fb3bdbb63297ef",
+        "mp3": "ecfbef_(i've_got_a_gal_in)_kalamazoo_jammie_corkery.mp3",
+        "songName": "(I've Got a Gal In) Kalamazoo",
+        "artistName": "Jammie Corkery",
+        "albumName": "Just Dance",
+        "genre": "Indie",
+        "characteristics": {
+            "volume": 48.7952,
+            "energy": 10.831,
+            "rhythm": 6.8922,
+            "positivity": 57.3311
+        }
+    },
+    "song_97": {
+        "songId": "4d64a0fe24e087ad7848fca6",
+        "mp3": "4d64a0_nothing_compares_2_u_ashly_swift.mp3",
+        "songName": "Nothing Compares 2 U",
+        "artistName": "Ashly Swift",
+        "albumName": "(Everything I Do) I Do it For You",
+        "genre": "Rock",
+        "characteristics": {
+            "volume": 3.0158,
+            "energy": 63.1,
+            "rhythm": 31.6514,
+            "positivity": 22.4101
+        }
+    },
+    "song_98": {
+        "songId": "eee28f2dcc822ab91f5dbe9b",
+        "mp3": "eee28f_i_think_i_love_you_pearline_zemlak.mp3",
+        "songName": "I Think I Love You",
+        "artistName": "Pearline Zemlak",
+        "albumName": "Don't Worry Be Happy",
+        "genre": "Electronic",
+        "characteristics": {
+            "volume": 74.667,
+            "energy": 39.3884,
+            "rhythm": 43.1392,
+            "positivity": 66.3231
+        }
+    },
+    "song_99": {
+        "songId": "eeec3a3967edcf225f75e180",
+        "mp3": "eeec3a_one_sweet_day_izaiah_erdman.mp3",
+        "songName": "One Sweet Day",
+        "artistName": "Izaiah Erdman",
+        "albumName": "Oh Happy Day",
+        "genre": "Hip Hop / Rap",
+        "characteristics": {
+            "volume": 67.8569,
+            "energy": 90.6712,
+            "rhythm": 6.0625,
+            "positivity": 16.9205
+        }
+    },
+    "song_100": {
+        "songId": "0bafd33e4bd42bf57b2cce8c",
+        "mp3": "0bafd3_honky_tonk_gregg_larson.mp3",
+        "songName": "Honky Tonk",
+        "artistName": "Gregg Larson",
+        "albumName": "Spirit in the Sky",
+        "genre": "Electronic",
+        "characteristics": {
+            "volume": 68.6732,
+            "energy": 11.2433,
+            "rhythm": 29.2839,
+            "positivity": 77.2376
+        }
+    }
+}

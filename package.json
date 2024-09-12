@@ -1,0 +1,45 @@
+{
+  "name": "leone_homework_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "James Leone",
+    "email": "jleone@umass.edu",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "nodemon --watch index.js --watch ./helper_functions",
+    "test": "node test/test-create.js && node test/test-delete.js && node test/test-get.js && node test/test-update.js",
+    "test2": "node --test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "request-ip": "^3.3.0",
+    "response-time": "^2.3.2",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "nodemon": "^3.0.3"
+  }
+}
